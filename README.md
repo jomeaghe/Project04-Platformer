@@ -1,12 +1,15 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
+Joseph Meagher 10/25/24
 
 Description
 
 ## Implementation
-Which features you included.
+created 3 levels with varying difficulty and design.
+levels utilize a changing decree of skill requiring the player to possibly fail in order to learn a better/faster route.
+added music to the levels with different songs per level.
+backgrounds change depending on the location and environment of the level.
 
 ## References
 
